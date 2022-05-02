@@ -1,0 +1,10 @@
+#image{
+    width: 200px;
+    width: 200px;
+}
+.news{
+    /* border: 1px solid blue; */
+    display: flex;
+    margin-top: 10px;
+    padding: 10px;
+}

@@ -1,0 +1,13 @@
+#navbar{
+    /* border: 1px solid red; */
+    background-color: bisque;
+    display: flex;
+    padding: 20px;
+    
+  }
+  #search_input{
+      margin-left: 120px;
+      width: 70%;
+      height: 30px;
+      margin-top: 20px;
+  }

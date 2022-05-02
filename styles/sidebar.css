@@ -1,0 +1,20 @@
+#sidebar{
+    border: 1px solid blue;
+    margin-top: 20px;
+    width: 15%;
+    /* height: 1000px; */
+    padding: 20px;
+}
+#sidebar div{
+    border: 1px solid green;
+    margin-top: 15px;
+    background-color: red;
+    color: white;
+}
+#result{
+    border: 1px solid green;
+    margin-left: 20px;
+    width: 79%;
+    height: auto;
+    margin-top: 20px;
+}
